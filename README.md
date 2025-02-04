@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   </div>
+  <h1>
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Visualizaçoes no perfil"/>
+  </h1>
 </div>
 
 
