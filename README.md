@@ -7,6 +7,7 @@
   <a href="https://www.instagram.com/gabedamecanica/">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
+    <br>
     <img src="https://komarev.com/ghpvc/?username=BeemoVrumVrum&style=flat-square&color=blue" alt=""/>
   <h1>
     Olá
