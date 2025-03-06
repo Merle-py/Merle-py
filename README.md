@@ -9,11 +9,13 @@
   </a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=BeemoVrumVrum&style=flat-square&color=blue" alt=""/>
+  </div>
   <h1>
     Olá
+    <br>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <br>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNodGYzN2FzdnZlMnl3aDU3YjZsczhtaWZqNGFscWZldW8xa3J0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width=65% height=65%>
 </h1>
-  </div>
 </div>
-
 
