@@ -15,13 +15,13 @@
     <a href="https://www.instagram.com/gabedamecanica/">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram"/>
     </a>
-    <a href="https://github.com/BeemoVrumVrum">
+    <a href="https://github.com/Merle-py">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub"/>
     </a>
   </p>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=BeemoVrumVrum&style=for-the-badge&color=blueviolet&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do Perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Merle-py&style=for-the-badge&color=blueviolet&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do Perfil"/>
   
 </div>
 
@@ -115,16 +115,16 @@ const gabriel = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeemoVrumVrum&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FEFF3&icon_color=3FEFF3&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeemoVrumVrum&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FEFF3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merle-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FEFF3&icon_color=3FEFF3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merle-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FEFF3&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeemoVrumVrum&theme=tokyonight&hide_border=true&background=0D1117&stroke=3FEFF3&ring=3FEFF3&fire=FF6B6B&currStreakLabel=3FEFF3" alt="Sequência GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merle-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=3FEFF3&ring=3FEFF3&fire=FF6B6B&currStreakLabel=3FEFF3" alt="Sequência GitHub"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeemoVrumVrum&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FEFF3&line=3FEFF3&point=FFFFFF" alt="Gráfico de Atividades GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merle-py&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FEFF3&line=3FEFF3&point=FFFFFF" alt="Gráfico de Atividades GitHub"/>
 </div>
 
 <br>
@@ -134,7 +134,7 @@ const gabriel = {
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeemoVrumVrum&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Troféus GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Merle-py&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Troféus GitHub"/>
 </div>
 
 <br>
@@ -218,7 +218,7 @@ const gabriel = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
   <p>
-    <b>⭐️ De <a href="https://github.com/Merle-py">BeemoVrumVrum</a> com ❤️</b>
+    <b>⭐️ De <a href="https://github.com/Merle-py">Merle-py</a> com ❤️</b>
   </p>
   
   <p>
