@@ -28,9 +28,6 @@
 <br>
 
 ## 👨‍💻 Sobre Mim
-
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNodGYzN2FzdnZlMnl3aDU3YjZsczhtaWZqNGFscWZldW8xa3J0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
-
 ```typescript
 const gabriel = {
     código: ["TypeScript", "JavaScript", "Python", "SQL"],
@@ -114,16 +111,16 @@ const gabriel = {
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merle-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FEFF3&icon_color=3FEFF3&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merle-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FEFF3&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Merle-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3FEFF3&icon_color=3FEFF3&text_color=FFFFFF" alt="Estatísticas GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merle-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FEFF3&text_color=FFFFFF" alt="Linguagens Mais Usadas"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merle-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=3FEFF3&ring=3FEFF3&fire=FF6B6B&currStreakLabel=3FEFF3" alt="Sequência GitHub"/>
+  <img src="https://streak-stats.demolab.com/?user=Merle-py&theme=tokyonight&hide_border=true&background=0D1117&stroke=3FEFF3&ring=3FEFF3&fire=FF6B6B&currStreakLabel=3FEFF3" alt="Sequência GitHub"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merle-py&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FEFF3&line=3FEFF3&point=FFFFFF" alt="Gráfico de Atividades GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Merle-py&bg_color=0D1117&color=3FEFF3&line=3FEFF3&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividades GitHub"/>
 </div>
 
 <br>
@@ -143,9 +140,14 @@ const gabriel = {
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake.svg">
+    <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake.svg">
+  </picture>
   
   <p><i>⬆️ Observe a cobra comer minhas contribuições! 🐍</i></p>
+  <p><i>💡 Para ativar: Configure uma GitHub Action no repositório Merle-py/Merle-py</i></p>
 </div>
 
 <br>
