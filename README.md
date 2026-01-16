@@ -144,7 +144,7 @@ const gabriel = {
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/BeemoVrumVrum/BeemoVrumVrum/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake-dark.svg" />
   
   <p><i>⬆️ Observe a cobra comer minhas contribuições! 🐍</i></p>
 </div>
@@ -218,7 +218,7 @@ const gabriel = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
   
   <p>
-    <b>⭐️ De <a href="https://github.com/BeemoVrumVrum">BeemoVrumVrum</a> com ❤️</b>
+    <b>⭐️ De <a href="https://github.com/Merle-py">BeemoVrumVrum</a> com ❤️</b>
   </p>
   
   <p>
