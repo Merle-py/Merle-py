@@ -63,8 +63,8 @@ const gabriel = {
 
 ---
 
-## 🛠️ Stack Tecnológico & Ferramentas
-
+<details>
+  <summary><h2>🛠️ Stack Tecnológico & Ferramentas</h2></summary>
 <div align="center">
 
 ### 💻 Linguagens
@@ -103,6 +103,7 @@ const gabriel = {
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+</details>
 
 <br>
 
@@ -196,18 +197,7 @@ const gabriel = {
     <a href="https://www.linkedin.com/in/gabriel-bernardo-3a59a2228/">
       <img src="https://img.shields.io/badge/Conecte_se_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:seu.email@exemplo.com">
-      <img src="https://img.shields.io/badge/Envie_me_um_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
   </p>
-  
-  ### ☕ Apoie Meu Trabalho
-  
-  <p>Se você gosta dos meus projetos, considere me pagar um café!</p>
-  
-  <a href="https://www.buymeacoffee.com/seuusuario" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Pague-me um Café" height="50px">
-  </a>
   
 </div>
 
