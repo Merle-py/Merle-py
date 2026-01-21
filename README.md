@@ -138,23 +138,6 @@ const gabriel = {
 
 ---
 
-## 📈 Gráfico de Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake.svg">
-    <img alt="cobra comendo minhas contribuições" src="https://raw.githubusercontent.com/Merle-py/Merle-py/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <p><i>⬆️ Observe a cobra comer minhas contribuições! 🐍</i></p>
-  <p><i>💡 Para ativar: Configure uma GitHub Action no repositório Merle-py/Merle-py</i></p>
-</div>
-
-<br>
-
----
-
 ## 💼 Atividade Recente
 
 <!--START_SECTION:activity-->
