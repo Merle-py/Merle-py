@@ -47,8 +47,6 @@ Nos projetos, também trabalho com autenticação, permissões por função, val
 
 | Projeto | O que você encontra |
 | --- | --- |
-| **[YHWH Agency](https://github.com/Merle-py/yhwh-agency)** | Interface de site institucional com páginas de serviços e componentes reutilizáveis. **React, TypeScript, Vite e Tailwind CSS.** |
-| **[Loja de peças](https://github.com/Merle-py/projfase2)** | Estudo de aplicação de terminal com cadastros, vendas, estoque e relatórios. Evolução de [SQLite](https://github.com/Merle-py/projfase1) para armazenamento documental com TinyDB. **Python e modelagem de dados.** |
 | **[Gerenciador de credenciais](https://github.com/Merle-py/gerenciadorSenhas)** | Projeto de estudo com CRUD, relacionamentos, transações e relatórios. **Java, JPA/Hibernate e PostgreSQL.** |
 
 ### Experimentos e fundamentos
